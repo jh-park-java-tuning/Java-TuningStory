@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d74fc15-5b03-496a-a555-e159cdfe1e80" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img/img_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/intro/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3A7Q5DalY8phbeUrRBVqxoAMZRL" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/parkjihun/Desktop/tuning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/1.1/img" />
+      <recent name="$PROJECT_DIR$/Chapter 01 - 디자인 패턴, 꼭 써야한다/intro" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="무제 폴더" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="무제 폴더" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="9d74fc15-5b03-496a-a555-e159cdfe1e80" name="변경" comment="" />
+      <created>1771940943471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771940943471</updated>
+      <workItem from="1771940944529" duration="9000" />
+      <workItem from="1771940976424" duration="4373000" />
+      <workItem from="1772025797341" duration="21000" />
+      <workItem from="1772025845408" duration="7000" />
+      <workItem from="1772025853868" duration="17000" />
+      <workItem from="1772025872369" duration="12000" />
+      <workItem from="1772025886578" duration="22000" />
+      <workItem from="1772025912827" duration="63000" />
+      <workItem from="1772025980565" duration="4000" />
+      <workItem from="1772025992646" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
